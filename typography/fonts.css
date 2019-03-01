@@ -1,0 +1,9 @@
+h1 { font-family: sans-serif; }
+p { 
+    font-family: 'Tangerine', serif;      
+}
+
+p,h1{
+    font-size:20
+}
+body { width: 50%; }
